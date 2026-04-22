@@ -1,0 +1,19 @@
+enter element1:1
+enter element2:2
+enter element3:3
+enter element4:4
+enter element5:4
+enter element6:6
+enter element7:7
+enter element8:8
+enter element9:9
+enter element10:10
+array element:1 2 3 4 4 6 7 8 9 10
+sum of array elements:54
+data written to file succesfully
+data read from file:
+array element:1 2 3 4 4 6 7 8 9 10
+
+--------------------------------
+Process exited after 10.13 seconds with return value 0
+Press any key to continue . . .
