@@ -1,1 +1,2 @@
-# programing-fun-assignment-1
+programing function 
+program by using 1D array,function & file I/O 
